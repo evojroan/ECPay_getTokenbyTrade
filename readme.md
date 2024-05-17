@@ -35,8 +35,8 @@ JavaScript、Node.js、Axios、Restful API、AES 加解密。
 - [Medium](https://medium.com/@roan6903/ecpay-einvoice-data-verification-cbd212cb6d63) 
 
 3. 綠界檢查碼與加密產生器
--[Github](https://github.com/evojroan/ECPay_CMVAEStools)
--[Medium](https://medium.com/@roan6903/hash-and-aes-encrypt-4229c1ba71a5)
+- [Github](https://github.com/evojroan/ECPay_CMVAEStools)
+- [Medium](https://medium.com/@roan6903/hash-and-aes-encrypt-4229c1ba71a5)
 
 ## 本程式作者
 Roan，專長是碎碎念。 
