@@ -25,6 +25,9 @@
 ## 本程式使用的技術
 JavaScript、Node.js、Axios、Restful API、AES 加解密。
 
+## 本程式介紹文章
+[Medium](https://medium.com/@roan6903/ecpay-gettokenbytrade-bac6be42294f)
+
 ## 本程式作者其他與綠界相關的程式 
 1. 綠界科技全方位金流串接範例 
 - [GitHub](https://github.com/evojroan/ECPay_AioCheckout) 
